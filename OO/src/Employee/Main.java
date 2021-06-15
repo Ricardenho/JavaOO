@@ -13,7 +13,7 @@ public class Main {
 		System.out.println(emp);
 		
 		emp2.IncreaseSalary(25);
-		System.out.println(emp2.Salary);
+		System.out.println(emp2);
 	}
 
 }
