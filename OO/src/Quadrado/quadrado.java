@@ -1,4 +1,4 @@
-package OrientacaoObjetos;
+package Quadrado;
 
 public class quadrado {
 	double base;
